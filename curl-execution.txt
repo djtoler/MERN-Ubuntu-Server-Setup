@@ -1,0 +1,2 @@
+# run this directly in ubuntu command line
+curl https://raw.githubusercontent.com/djtoler/MERN-Ubuntu-Server-Setup/main/mern-ec2.sh | sudo bash
